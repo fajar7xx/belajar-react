@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,46 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.parentbox{
+  width: 80%;
+  overflow: hidden;
+  margin: auto;
+  margin-top: 100px;
+  /* background: red; */
 }
+.foto{
+  float: left;
+  width: 50%;
+  height: 700px;
+  /* background: #e3e9ee; */
+  /* overflow: hidden; */
+}
+.foto img{
+  /* max-width: 100%; */
+  width: 100%;
+}
+
+.deskripsi{
+  width: 40%;
+  overflow: hidden;
+  float: left;
+  margin-left: 30px;
+}
+.deskripsi .info{
+  line-height: 1.8;
+  color: rgb(18, 11, 49);
+  text-align: justify;
+}
+.deskripsi .price{
+  font-size: 20px;
+  font-weight: 500;
+}
+.deskripsi .title{
+  margin: 0;
+}
+.deskripsi .cate{
+  color: #acaeb2;
+}
+
