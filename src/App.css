@@ -47,7 +47,8 @@
 .foto{
   float: left;
   width: 50%;
-  height: 700px;
+  /* height: 700px; */
+  height: 450px;
   /* background: #e3e9ee; */
   /* overflow: hidden; */
 }
@@ -95,3 +96,35 @@
   transition: all 0.8s;
 }
 
+.review-box{
+  clear: both;
+  width: 100%;
+  overflow: hidden;
+  padding-bottom: 100px;
+}
+.review-box h2{
+  margin-top: 20px;
+}
+.review-box img{
+  width: 80px;
+  height: 80px;
+  background: #b1b1b1;
+  border-radius: 11px;
+  float: left;
+  margin-right: 16px;
+}
+.review-box .user h3, p{
+  margin: 0;
+}
+.review-box .user h3{
+  padding-top: 10px;
+  margin-bottom: 8px;
+}
+.review-box .items{
+  width: 80%;
+  overflow: hidden;
+  margin-bottom: 24px;
+}
+.review-box > p{
+  text-align: justify;
+}

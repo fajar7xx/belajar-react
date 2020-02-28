@@ -1,13 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## my first reactjs
+ini merupakan aplikasi sederhana yang sya bangun membangun reactjs, disni hanya mencoba membuat component ederhana untuk memahami cara penggunaan react
 
-## Available Scripts
 
-In the project directory, you can run:
+## Here are some screenshots:
 
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+![Screenshot_2019-04-11 - Ms Duane Welch(2)](rap.png)
